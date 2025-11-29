@@ -1,4 +1,5 @@
-# Business Impacts
+# Project Name: Apriori Algorithm or Market Basket Analysis
+## Business Impacts
 1. Top frequently bought-together items drive smarter bundles, lifting basket value.
 2. High-lift associations improve store layout and recommendations, boosting conversions.
 3. Low-frequency/high-value pairs enable premium bundles, increasing profit margins.

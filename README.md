@@ -11,6 +11,6 @@
 9. Cross-department buying patterns improve operational efficiency.
 10. Identifying items rarely bought together cuts marketing waste.
 
-## Approaches
+## Approaches Details
 1. utilized the public Kaggle dataset
 2. Cleaned and processed millions of rows in Python

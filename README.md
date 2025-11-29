@@ -14,4 +14,3 @@
 1. utilized the public Kaggle dataset
 2. Columns that I used for this analysis are Customers_ID,TotalPrice,SalePersonID,CityID and HiredDate
 3. Cleaned and processed millions of rows in Python
-4. Aggregated and visualized results in Excel, building an interactive dashboard for deep analysis

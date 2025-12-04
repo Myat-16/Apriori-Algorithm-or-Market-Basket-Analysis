@@ -1,5 +1,5 @@
 # Project Name: Apriori Algorithm or Market Basket Analysis
-## Dataset : https://github.com/Myat-16/Apriori-Algorithm-or-Market-Basket-Analysis/blob/main/Apriori%20Algorithm/Market_Basket_Optimisation.xlsx
+### Dataset : https://github.com/Myat-16/Apriori-Algorithm-or-Market-Basket-Analysis/blob/main/Apriori%20Algorithm/Market_Basket_Optimisation.xlsx
 ## Business Impacts
 1. Top frequently bought-together items drive smarter bundles, lifting basket value.
 2. High-lift associations improve store layout and recommendations, boosting conversions.

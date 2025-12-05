@@ -15,3 +15,6 @@
 ## Approaches Details
 1. utilized the public Kaggle dataset
 2. Cleaned and processed millions of rows in Python, handling missing values, standardizing formats, and ensuring consistency for accurate analysis.
+
+
+<img width="693" height="616" alt="image" src="https://github.com/user-attachments/assets/7e726a18-c32a-4b9c-8270-f749a7933d2f" />
